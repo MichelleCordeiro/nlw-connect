@@ -40,7 +40,8 @@
   <code><img height="23" src="https://github.com/dcastil/tailwind-merge/raw/v2.2.2/assets/logo.svg" alt="TailWind Merge"> TailWind Merge</code>
   <code><img height="22" src="https://i.postimg.cc/NMDYcNJT/logo-lucide.png" alt="Lucide React"> Lucide React</code>
    <code><img height="22" alt="zod logo" src="https://i.postimg.cc/LXLB3dPD/zod-logo.png">Zod</code>
-  <code><img height="22" src="https://i.postimg.cc/xTSCJ9Nx/biome-icon-transparent.png" alt="VS Code"> BiomeJS</code>
+  <code><img height="22" src="https://i.postimg.cc/xTSCJ9Nx/biome-icon-transparent.png" alt="BiomeJS"> BiomeJS</code>
+  <code><img height="21" src="https://i.postimg.cc/bvGskzVV/orval-logo.png" alt="Orval"> Orval</code>
   <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>
 </p>
 
@@ -56,6 +57,7 @@
 - [Lucide React](https://lucide.dev/) - biblioteca de ícones
 - [Zod](https://zod.dev/): biblioteca de validação de esquemas altamente eficiente e fácil de usar para JavaScript e TypeScript, permite definir e validar esquemas de forma declarativa, ajudando a garantir a integridade dos dados em seu aplicativo
 - [BiomeJS](https://biomejs.dev/pt-br/) - ferramenta de formatação e correção de código para JavaScript, TypeScript, JSX, CSS e GraphQL
+- [Orval](https://orval.dev/) - gerador de cliente swagger para typescript
 
 <br>
 
@@ -80,6 +82,7 @@
       <li>URL state</li>
       <li>Zod</li>
       <li>Biomejs</li>
+      <li>Orval</li>
     </td>
 
   </tr>
